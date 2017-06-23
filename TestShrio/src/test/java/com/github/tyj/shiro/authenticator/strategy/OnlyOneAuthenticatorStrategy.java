@@ -1,4 +1,4 @@
-package cn.edu.nju.seg.shiro.authenticator.strategy;
+package com.github.tyj.shiro.authenticator.strategy;
 
 import java.util.Collection;
 

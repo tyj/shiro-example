@@ -1,4 +1,4 @@
-package cn.edu.nju.seg.shiro.permission;
+package com.github.tyj.shiro.permission;
 
 import java.util.Arrays;
 import java.util.Collection;

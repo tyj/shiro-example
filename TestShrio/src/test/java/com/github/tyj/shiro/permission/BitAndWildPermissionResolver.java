@@ -1,4 +1,4 @@
-package cn.edu.nju.seg.shiro.permission;
+package com.github.tyj.shiro.permission;
 
 import org.apache.shiro.authz.Permission;
 import org.apache.shiro.authz.permission.PermissionResolver;

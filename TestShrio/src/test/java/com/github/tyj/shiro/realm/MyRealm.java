@@ -1,4 +1,4 @@
-package cn.edu.nju.seg.shiro.realm;
+package com.github.tyj.shiro.realm;
 
 import org.apache.shiro.authc.AuthenticationException;
 import org.apache.shiro.authc.AuthenticationInfo;
@@ -12,7 +12,7 @@ import org.apache.shiro.authz.permission.WildcardPermission;
 import org.apache.shiro.realm.AuthorizingRealm;
 import org.apache.shiro.subject.PrincipalCollection;
 
-import cn.edu.nju.seg.shiro.permission.BitPermission;
+import com.github.tyj.shiro.permission.BitPermission;
 
 public class MyRealm extends AuthorizingRealm {
 

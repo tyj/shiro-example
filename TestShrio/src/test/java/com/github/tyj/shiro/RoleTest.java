@@ -1,4 +1,4 @@
-package cn.edu.nju.seg.shiro;
+package com.github.tyj.shiro;
 
 import java.util.Arrays;
 
